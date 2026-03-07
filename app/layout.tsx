@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { cookies } from "next/headers";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import ResearchUseGate from "./components/ResearchUseGate";
 import { RESEARCH_GATE_COOKIE, RESEARCH_GATE_VALUE } from "./lib/research-gate";
 import "./globals.css";
@@ -108,6 +110,8 @@ export default async function RootLayout({
             </p>
           </footer>
         </div>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );

@@ -13,6 +13,8 @@
     "coas:site": "node scripts/fetch-site-coas.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.6.1",
+    "@vercel/speed-insights": "^1.3.1",
     "jsdom": "^28.1.0",
     "next": "16.1.6",
     "node-fetch": "^3.3.2",
