@@ -9,6 +9,7 @@ export async function GET() {
   try {
     const catalogProducts = getCatalogProducts();
     const notifyRequests = await getNotifyRequestCount();
+    const squareEnvironment = (process.env.SQUARE_ENVIRONMENT ?? "production").toLowerCase();
 
     return NextResponse.json(
       {
@@ -16,6 +17,8 @@ export async function GET() {
         timestamp: new Date().toISOString(),
         uptimeSeconds: Math.floor(process.uptime()),
         nodeEnv: process.env.NODE_ENV ?? "unknown",
+        siteUrl: process.env.NEXT_PUBLIC_SITE_URL ?? null,
+        squareEnvironment,
         squareConfigured: Boolean(process.env.SQUARE_ACCESS_TOKEN && process.env.SQUARE_LOCATION_ID),
         catalogProductCount: catalogProducts.length,
         notifyRequestCount: notifyRequests,
