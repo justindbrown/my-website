@@ -9,12 +9,12 @@ const FORCE_OUT_OF_STOCK = process.env.FORCE_OUT_OF_STOCK !== "false";
 const PRODUCT_SCOPE = (process.env.PRODUCT_SCOPE ?? "active").toLowerCase();
 
 const CATEGORY_MAP = {
-  weight_loss: "Weight Loss",
-  recovery_healing: "Recovery & Healing",
-  cognitive_focus: "Cognitive & Focus",
-  performance_longevity: "Performance",
-  sexual_health: "Sexual Health",
-  general_health: "General Health",
+  weight_loss: "Research Peptides",
+  recovery_healing: "Research Peptides",
+  cognitive_focus: "Research Peptides",
+  performance_longevity: "Research Peptides",
+  sexual_health: "Research Peptides",
+  general_health: "Miscellaneous",
 };
 
 const KEY_ALIASES = new Map([
@@ -67,11 +67,7 @@ function toCategory(value) {
     return CATEGORY_MAP[key];
   }
 
-  return key
-    .split("_")
-    .filter(Boolean)
-    .map((segment) => segment[0]?.toUpperCase() + segment.slice(1))
-    .join(" ");
+  return "Research Compounds";
 }
 
 function canonicalCompoundKey(name) {
@@ -113,7 +109,7 @@ function chooseCategory(rows) {
     counts.set(category, (counts.get(category) ?? 0) + 1);
   }
 
-  return Array.from(counts.entries()).sort((a, b) => b[1] - a[1])[0]?.[0] ?? "General Health";
+  return Array.from(counts.entries()).sort((a, b) => b[1] - a[1])[0]?.[0] ?? "Research Compounds";
 }
 
 function chooseDescription(rows) {
