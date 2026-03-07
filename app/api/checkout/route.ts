@@ -2,6 +2,12 @@ import { randomUUID } from "crypto";
 import { NextRequest, NextResponse } from "next/server";
 import { getProductBySlug, getProductVariant } from "../../lib/catalog";
 import { logEvent } from "../../lib/observability";
+import {
+  AGE_VERIFIED_COOKIE,
+  AGE_VERIFIED_VALUE,
+  RESEARCH_GATE_COOKIE,
+  RESEARCH_GATE_VALUE,
+} from "../../lib/research-gate";
 
 export const runtime = "nodejs";
 
@@ -17,9 +23,13 @@ type CheckoutPayload = {
 
 function hasResearchAcknowledgement(request: NextRequest): boolean {
   return (
-    request.cookies.get("mlr_research_gate_v2")?.value === "accepted" ||
+    request.cookies.get(RESEARCH_GATE_COOKIE)?.value === RESEARCH_GATE_VALUE ||
     request.cookies.get("mlr_research_gate_v1")?.value === "accepted"
   );
+}
+
+function hasAgeVerification(request: NextRequest): boolean {
+  return request.cookies.get(AGE_VERIFIED_COOKIE)?.value === AGE_VERIFIED_VALUE;
 }
 
 function parseUnitAmount(price: string): number | null {
@@ -160,6 +170,17 @@ export async function POST(request: NextRequest) {
       }
 
       return NextResponse.redirect(new URL("/legal/terms?ack=required", request.url), { status: 303 });
+    }
+
+    if (!hasAgeVerification(request)) {
+      if (wantsJson) {
+        return NextResponse.json(
+          { error: "Birthday verification is required before checkout." },
+          { status: 403 }
+        );
+      }
+
+      return NextResponse.redirect(new URL("/?age=required", request.url), { status: 303 });
     }
 
     if (!finalSaleAcknowledged) {

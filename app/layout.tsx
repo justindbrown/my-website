@@ -5,7 +5,12 @@ import { cookies } from "next/headers";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import ResearchUseGate from "./components/ResearchUseGate";
-import { RESEARCH_GATE_COOKIE, RESEARCH_GATE_VALUE } from "./lib/research-gate";
+import {
+  AGE_VERIFIED_COOKIE,
+  AGE_VERIFIED_VALUE,
+  RESEARCH_GATE_COOKIE,
+  RESEARCH_GATE_VALUE,
+} from "./lib/research-gate";
 import "./globals.css";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
@@ -44,7 +49,8 @@ export default async function RootLayout({
 }>) {
   const cookieStore = await cookies();
   const gateCookie = cookieStore.get(RESEARCH_GATE_COOKIE)?.value;
-  const initialAcknowledged = gateCookie === RESEARCH_GATE_VALUE;
+  const ageCookie = cookieStore.get(AGE_VERIFIED_COOKIE)?.value;
+  const initialAcknowledged = gateCookie === RESEARCH_GATE_VALUE && ageCookie === AGE_VERIFIED_VALUE;
   const year = new Date().getFullYear();
 
   return (
