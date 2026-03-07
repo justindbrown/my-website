@@ -1,0 +1,1450 @@
+export const testData = {
+  "updatedAt": "2026-02-25T05:54:54.919Z",
+  "count": 202,
+  "grouped": {
+    "BPC-157": [
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#100491 BPC-157 10mg + TB 500 10mg Assessment of a peptide vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100491",
+        "reportUrl": "https://verify.janoshik.com/tests/100491-BPC157_10mg_TB_500_10mg_DAWP5HCLAV5W"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#99952 BPC-157 20mg Cocer Peptides Assessment of a peptide vial or vials. tested by Cocer Peptides Made By cocerpeptides.com",
+        "testId": "99952",
+        "reportUrl": "https://verify.janoshik.com/tests/99952-BPC157_20mg_Cocer_Peptides_ZM1ZAE9GYC8G"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#99765 BPC-157 20mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "99765",
+        "reportUrl": "https://verify.janoshik.com/tests/99765-BPC157_20mg_ZMSXZG9JRV96"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#97078 BPC-157/TB500 blend 5/5mg Assessment of a peptide vial or vials. tested by Crystal Peptides Made By crystalpeptides.eu",
+        "testId": "97078",
+        "reportUrl": "https://verify.janoshik.com/tests/97078-BPC157TB500_blend_55mg_T7WBX2A8A7RZ"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#96850 BPC-157 20mg | Peptidegurus Domestic shipping Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By Peptidegurus",
+        "testId": "96850",
+        "reportUrl": "https://verify.janoshik.com/tests/96850-BPC157_20mg_Peptidegurus_Domestic_shipping_LRIHSJGV2AQ3"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#95897 BPC157 5mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "95897",
+        "reportUrl": "https://verify.janoshik.com/tests/95897-BPC157_5mg_Ships_within_the_USA_Fast_P3TMI9ZZRZG3"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#93546 GLOW 70 (BPC-157, TB500, GHK-Cu) Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "93546",
+        "reportUrl": "https://verify.janoshik.com/tests/93546-GLOW_70_BPC157_TB500_GHKCu_ABAYI5239P7Z"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#91622 BPC 157 5mg Assessment of a peptide vial or vials. tested by info@crystalpeptides.eu Made By crystalpeptides.eu",
+        "testId": "91622",
+        "reportUrl": "https://verify.janoshik.com/tests/91622-BPC_157_5mg_YHG5S8IFSDC7"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#89655 KLOW (GHK or GHK-Cu/ TB-500/ BPC-157/ KPV) Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89655",
+        "reportUrl": "https://verify.janoshik.com/tests/89655-KLOW_GHK_or_GHKCu_TB500_BPC157_KPV_52AQ2DBLRV3X"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#89654 BPC-157/TB-500 blend Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89654",
+        "reportUrl": "https://verify.janoshik.com/tests/89654-BPC157TB500_blend_CJVX68SCFZWK"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#89407 BB20 (BPC-157 10mg + TB-500 10mg) Assessment of a peptide vial or vials. tested by ZLZ peptides Made By http://www.zlzpeptide.com",
+        "testId": "89407",
+        "reportUrl": "https://verify.janoshik.com/tests/89407-BB20_BPC157_10mg_TB500_10mg_3JWRGDU2ZMN6"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#89197 KLOW (GHK or GHK-Cu/ TB-500/ BPC-157/ KPV) Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89197",
+        "reportUrl": "https://verify.janoshik.com/tests/89197-KLOW_GHK_or_GHKCu_TB500_BPC157_KPV_YIYCBKRDPGZQ"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#89196 BPC-157/TB-500 blend Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89196",
+        "reportUrl": "https://verify.janoshik.com/tests/89196-BPC157TB500_blend_IHCM57VZPFUP"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#87977 BPC157 10mg Heavy metal analysis. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87977",
+        "reportUrl": "https://verify.janoshik.com/tests/87977-BPC157_10mg_7ZNQ17S6MT7H"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#87975 BPC157 10mg Endotoxin test tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87975",
+        "reportUrl": "https://verify.janoshik.com/tests/87975-BPC157_10mg_4Y1PNBQ84N2M"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#87972 BPC157 10mg Assessment of a peptide vial or vials. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87972",
+        "reportUrl": "https://verify.janoshik.com/tests/87972-BPC157_10mg_JC7LQ48SCWGA"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#87708 Klow80(TB-500 10mg+BPC-157 10mg+GHK-CU 50mg+KPV 10mg) Assessment of a peptide vial or vials. tested by HM Peptide| Wholesale | OEM service Made By http://www.hemanpeptide.com/",
+        "testId": "87708",
+        "reportUrl": "https://verify.janoshik.com/tests/87708-Klow80TB500_10mgBPC157_10mgGHKCU_50mgKPV_10mg_ZCBEF755L1LS"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#85652 BPC 157 10mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85652",
+        "reportUrl": "https://verify.janoshik.com/tests/85652-BPC_157_10mg_W32EMVI6IU17"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#85650 Klow (TB10mg+BPC15710mg+GHK50mg+KPV10mg) Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85650",
+        "reportUrl": "https://verify.janoshik.com/tests/85650-Klow_TB10mgBPC15710mgGHK50mgKPV10mg_A124CAPMJIS3"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#85649 Glow (TB10mg+BPC-15710mg+GHK50mg) Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85649",
+        "reportUrl": "https://verify.janoshik.com/tests/85649-Glow_TB10mgBPC15710mgGHK50mg_DRCWFA5LXBY1"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#71744 BPC5mg+TB5mg Blend Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "71744",
+        "reportUrl": "https://verify.janoshik.com/tests/71744-BPC5mgTB5mg_Blend_7BR13XPY93JT"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#71599 BPC 157 10mg+GHK-CU 50mg+TB500 10mg Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "71599",
+        "reportUrl": "https://verify.janoshik.com/tests/71599-BPC_157_10mgGHKCU_50mgTB500_10mg_PU3UB4FV51ZN"
+      },
+      {
+        "peptide": "BPC-157",
+        "source": "janoshik",
+        "title": "#62752 BPC157 5mg+Tb500 5mg blend Assessment of a peptide vial or vials. tested by Qing Li Peptide Made By www.qinglishangmao.com",
+        "testId": "62752",
+        "reportUrl": "https://verify.janoshik.com/tests/62752-BPC157_5mgTb500_5mg_blend_YANIB6SEF6TH"
+      }
+    ],
+    "Other": [
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#104874 Primobolan 100 mg/ml Blind common anabolic steroid screening - oils tested by Alpha BioPharma Made By Alpha BioPharma",
+        "testId": "104874",
+        "reportUrl": "https://verify.janoshik.com/tests/104874-Primobolan_100_mgml_2BC7EWYF3SFG"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#100755 GLP-1 T 120mg Assessment of a peptide vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100755",
+        "reportUrl": "https://verify.janoshik.com/tests/100755-GLP1_T_120mg_D8KNAB2KE91X"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#100735 GLP-1 T 60mg Assessment of a peptide vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100735",
+        "reportUrl": "https://verify.janoshik.com/tests/100735-GLP1_T_60mg_IMF97CPAEL4C"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#100668 GLP-3 R 30mg Assessment of a peptide vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100668",
+        "reportUrl": "https://verify.janoshik.com/tests/100668-GLP3_R_30mg_LX8UHXMJGIZ9"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#100645 GLOW 70mg Assessment of a peptide vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100645",
+        "reportUrl": "https://verify.janoshik.com/tests/100645-GLOW_70mg_Z8HDBQWU1KA1"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#100613 KLOW 80mg Assessment of a peptide vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100613",
+        "reportUrl": "https://verify.janoshik.com/tests/100613-KLOW_80mg_KQ52PAY5F8EY"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#100564 kisspeptin 10mg Cocer Peptides Assessment of a peptide vial or vials. tested by Cocer Peptides Made By cocerpeptides.com",
+        "testId": "100564",
+        "reportUrl": "https://verify.janoshik.com/tests/100564-kisspeptin_10mg_Cocer_Peptides_7JXTT3A6CUUF"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#99766 Cartalax 20mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "99766",
+        "reportUrl": "https://verify.janoshik.com/tests/99766-Cartalax_20mg_2Y55QCLW6NDS"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#97080 CJC 1295 with DAC 5mg Assessment of a peptide vial or vials. tested by Crystal Peptides Made By crystalpeptides.eu",
+        "testId": "97080",
+        "reportUrl": "https://verify.janoshik.com/tests/97080-CJC_1295_with_DAC_5mg_KE7HVNBFLALX"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#97079 CJC 1295 no DAC 5mg Assessment of a peptide vial or vials. tested by Crystal Peptides Made By crystalpeptides.eu",
+        "testId": "97079",
+        "reportUrl": "https://verify.janoshik.com/tests/97079-CJC_1295_no_DAC_5mg_NPCSZ74LJ8A5"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#96852 FST344 follistatin 344 fst-344 | Domestic shipping from USA,UK,EU warehouse Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By PeptideGurus",
+        "testId": "96852",
+        "reportUrl": "https://verify.janoshik.com/tests/96852-FST344_follistatin_344_fst344_Domestic_shipping_from_USAUKEU_warehouse_1CAZ9XMXDZHF"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#96849 KLOW | Peptidegurus Domestic shipping from USA,UK,EU Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By Peptidegurus",
+        "testId": "96849",
+        "reportUrl": "https://verify.janoshik.com/tests/96849-KLOW_Peptidegurus_Domestic_shipping_from_USAUKEU_FKKIVYUAEM4J"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#96847 sermorelin 10mg | Peptidegurus Domestic shipping Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By Peptidegurus",
+        "testId": "96847",
+        "reportUrl": "https://verify.janoshik.com/tests/96847-sermorelin_10mg_Peptidegurus_Domestic_shipping_TQ4GDSKIPFW9"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#96846 cjc no dac 4mg blend ipamorelin 4mg | Domestic shipping from USA,UK,EU wareh... Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By Peptidegurus",
+        "testId": "96846",
+        "reportUrl": "https://verify.janoshik.com/tests/96846-cjc_no_dac_4mg_blend_ipamorelin_4mg_Domestic_shipping_from_USAUKEU_warehouse_DQFJD5SC4B6P"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#96845 PE 22-28 | Domestic shipping from USA,UK,EU warehouse Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By PeptideGurus",
+        "testId": "96845",
+        "reportUrl": "https://verify.janoshik.com/tests/96845-PE_2228_Domestic_shipping_from_USAUKEU_warehouse_UZVSB319QEKK"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#95281 selank-10mg Assessment of a peptide vial or vials. tested by aurapp.5188@hotmail.com Made By aura",
+        "testId": "95281",
+        "reportUrl": "https://verify.janoshik.com/tests/95281-selank10mg_AI6GEKBHTVLE"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#95270 vip-10mg Assessment of a peptide vial or vials. tested by uwa-biotech Made By www.uwa-biotech.com",
+        "testId": "95270",
+        "reportUrl": "https://verify.janoshik.com/tests/95270-vip10mg_EHIZ9BMY66FU"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#95195 Aromasin (Exemestane) 25mg Tablet / BEST Priced BULK Orals/Anabolics/Peptides... Qualitative and quantitative analysis of an AAS... tested by G.C. Made By https://t.me/glasscompounds",
+        "testId": "95195",
+        "reportUrl": "https://verify.janoshik.com/tests/95195-Aromasin_Exemestane_25mg_Tablet_BEST_Priced_BULK_OralsAnabolicsPeptides_Quick_USA_EU_QGX5ZHHMN223"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#94807 survodutide 10mg Assessment of a peptide vial or vials. tested by uwa-biotech Made By www.uwa-biotech.com",
+        "testId": "94807",
+        "reportUrl": "https://verify.janoshik.com/tests/94807-survodutide_10mg_QRGJHX64ZIRK"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#94386 DSIP 5mg Assessment of a peptide vial or vials. tested by zztai Peptide Ltd Made By https://zztai-tech.com/",
+        "testId": "94386",
+        "reportUrl": "https://verify.janoshik.com/tests/94386-DSIP_5mg_K23AKKTEBNYJ"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92829 KLOW 80 mg Assessment of a peptide vial or vials. tested by lilawayne2004@gmail.com Made By KBR",
+        "testId": "92829",
+        "reportUrl": "https://verify.janoshik.com/tests/92829-KLOW_80_mg_RBGXJQ1EP8KQ"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92828 T10 Assessment of a peptide vial or vials. tested by lilawayne2004@gmail.com Made By KBR",
+        "testId": "92828",
+        "reportUrl": "https://verify.janoshik.com/tests/92828-T10_YP2S9C4QKUWV"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92826 RT10 Assessment of a peptide vial or vials. tested by lilawayne2004@gmail.com Made By KBR",
+        "testId": "92826",
+        "reportUrl": "https://verify.janoshik.com/tests/92826-RT10_VFQSC2K4MFSB"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92825 T30 Assessment of a peptide vial or vials. tested by lilawayne2004@gmail.com Made By KBR",
+        "testId": "92825",
+        "reportUrl": "https://verify.janoshik.com/tests/92825-T30_VA44NTI97VK7"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92523 R60 Assessment of a peptide vial or vials. tested by gooddaisy2004@gmail.com Made By GOOD",
+        "testId": "92523",
+        "reportUrl": "https://verify.janoshik.com/tests/92523-R60_Q13EUSIUI2PL"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92522 R50 Assessment of a peptide vial or vials. tested by gooddaisy2004@gmail.com Made By GOOD",
+        "testId": "92522",
+        "reportUrl": "https://verify.janoshik.com/tests/92522-R50_AAAL6SR231DW"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92521 R40 Assessment of a peptide vial or vials. tested by gooddaisy2004@gmail.com Made By GOOD",
+        "testId": "92521",
+        "reportUrl": "https://verify.janoshik.com/tests/92521-R40_4G41VH9DIEMB"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92520 R30 Assessment of a peptide vial or vials. tested by gooddaisy2004@gmail.com Made By GOOD",
+        "testId": "92520",
+        "reportUrl": "https://verify.janoshik.com/tests/92520-R30_4X7KGVM6XYGZ"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92518 R20 Assessment of a peptide vial or vials. tested by gooddaisy2004@gmail.com Made By GOOD",
+        "testId": "92518",
+        "reportUrl": "https://verify.janoshik.com/tests/92518-R20_MYUXMMRPWZ5F"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92517 R10 Assessment of a peptide vial or vials. tested by gooddaisy2004@gmail.com Made By GOOD",
+        "testId": "92517",
+        "reportUrl": "https://verify.janoshik.com/tests/92517-R10_VSKMB5ZIQIVN"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#92362 Thymosin Alpha-1 TA1 10mg| PeptideGurus domestic shipping from USA,UK,Europe,... Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By PEPTIDEGURUS.COM",
+        "testId": "92362",
+        "reportUrl": "https://verify.janoshik.com/tests/92362-Thymosin_Alpha1_TA1_10mg_PeptideGurus_domestic_shipping_from_USAUKEuropeCanada_KV8APX9ATJ7X"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#91625 Ipamorelin 5mg Assessment of a peptide vial or vials. tested by info@crystalpeptides.eu Made By crystalpeptides.eu",
+        "testId": "91625",
+        "reportUrl": "https://verify.janoshik.com/tests/91625-Ipamorelin_5mg_DPCJCXLK66AM"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#89457 Sermorelin Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89457",
+        "reportUrl": "https://verify.janoshik.com/tests/89457-Sermorelin_YJRP1CUWRMK9"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#89455 CJC-1295 with DAC 5 Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89455",
+        "reportUrl": "https://verify.janoshik.com/tests/89455-CJC1295_with_DAC_5_GPTT2WHUD81L"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#89408 Selank 10mg Assessment of a peptide vial or vials. tested by ZLZ peptides Made By http://www.zlzpeptide.com",
+        "testId": "89408",
+        "reportUrl": "https://verify.janoshik.com/tests/89408-Selank_10mg_GBJDK4V8I8XG"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#89406 IGF-1 LR3 1mg Assessment of a peptide vial or vials. tested by ZLZ peptides Made By http://www.zlzpeptide.com",
+        "testId": "89406",
+        "reportUrl": "https://verify.janoshik.com/tests/89406-IGF1_LR3_1mg_DX6FSZSEN2FL"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#89404 CP10 (CJC-1295 without DAC 5mg + Ipamorelin 5mg) Assessment of a peptide vial or vials. tested by ZLZ peptides Made By http://www.zlzpeptide.com",
+        "testId": "89404",
+        "reportUrl": "https://verify.janoshik.com/tests/89404-CP10_CJC1295_without_DAC_5mg_Ipamorelin_5mg_WTWIA3QS9DSC"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#89198 Sermorelin Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89198",
+        "reportUrl": "https://verify.janoshik.com/tests/89198-Sermorelin_61LD1UBGRB66"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#89194 CJC-1295 with DAC 5 Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89194",
+        "reportUrl": "https://verify.janoshik.com/tests/89194-CJC1295_with_DAC_5_SL71AEI8WI6B"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#88157 Trenbolone Enanthate 200 mg Qualitative and quantitative analysis of an AAS... tested by Alpha BioPharma Made By Alpha BioPharma",
+        "testId": "88157",
+        "reportUrl": "https://verify.janoshik.com/tests/88157-Trenbolone_Enanthate_200_mg_LLZVF3YNXQU9"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#88156 Parabolan 76,5 mg Qualitative and quantitative analysis of an AAS... tested by Alpha BioPharma Made By Alpha BioPharma",
+        "testId": "88156",
+        "reportUrl": "https://verify.janoshik.com/tests/88156-Parabolan_765_mg_FDQ7RG9LVID4"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#88153 NPP 100 Qualitative and quantitative analysis of an AAS... tested by Alpha BioPharma Made By Alpha BioPharma",
+        "testId": "88153",
+        "reportUrl": "https://verify.janoshik.com/tests/88153-NPP_100_E86BEKL6Q87M"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#88152 Anavar 10 mg Qualitative and quantitative analysis of an AAS... tested by Alpha BioPharma Made By Alpha BioPharma",
+        "testId": "88152",
+        "reportUrl": "https://verify.janoshik.com/tests/88152-Anavar_10_mg_RX5TY5JBV23G"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87965 Dsip 10mg Heavy metal analysis. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87965",
+        "reportUrl": "https://verify.janoshik.com/tests/87965-Dsip_10mg_B5U8TT37CKRN"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87964 Dsip 10mg Endotoxin test tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87964",
+        "reportUrl": "https://verify.janoshik.com/tests/87964-Dsip_10mg_42QYUQG1AL8J"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87962 Dsip 10mg Assessment of a peptide vial or vials. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87962",
+        "reportUrl": "https://verify.janoshik.com/tests/87962-Dsip_10mg_QZCV58WDSB7X"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87958 Selank 10mg Heavy metal analysis. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87958",
+        "reportUrl": "https://verify.janoshik.com/tests/87958-Selank_10mg_Y6RI1FJ5AMHV"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87957 Selank 10mg Endotoxin test tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87957",
+        "reportUrl": "https://verify.janoshik.com/tests/87957-Selank_10mg_6CJCCK33YI87"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87956 Selank 10mg Assessment of a peptide vial or vials. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87956",
+        "reportUrl": "https://verify.janoshik.com/tests/87956-Selank_10mg_WHSY61PU59AB"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87955 CJC-1295 without DAC 10mg Heavy metal analysis. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87955",
+        "reportUrl": "https://verify.janoshik.com/tests/87955-CJC1295_without_DAC_10mg_YUZ61A8SDLNJ"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87954 CJC-1295 without DAC 10mg Endotoxin test tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87954",
+        "reportUrl": "https://verify.janoshik.com/tests/87954-CJC1295_without_DAC_10mg_C1ES5H2DIPIB"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#87953 CJC-1295 without DAC 10mg Assessment of a peptide vial or vials. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87953",
+        "reportUrl": "https://verify.janoshik.com/tests/87953-CJC1295_without_DAC_10mg_BB4A51WZFBRY"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#85662 Ipamorelin 10mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85662",
+        "reportUrl": "https://verify.janoshik.com/tests/85662-Ipamorelin_10mg_IZNZPKCTGFE4"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#85660 HCG 5000iu Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85660",
+        "reportUrl": "https://verify.janoshik.com/tests/85660-HCG_5000iu_KB6FGJ5TBS2V"
+      },
+      {
+        "peptide": "Other",
+        "source": "janoshik",
+        "title": "#85659 SS-31 10mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85659",
+        "reportUrl": "https://verify.janoshik.com/tests/85659-SS31_10mg_CV1GZEZ2C6NB"
+      }
+    ],
+    "HGH": [
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#105658 Hgh 36iu Sterility test | Domestic shipping from USA ,Europe and UK TAMC+TYMC. tested by info@peptidegurus.com Made By peptidegurus.com",
+        "testId": "105658",
+        "reportUrl": "https://verify.janoshik.com/tests/105658-Hgh_36iu_Sterility_test_Domestic_shipping_from_USA_Europe_and_UK_VVW2CZPMBRE2"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#100537 HGH 191AA 36iu Assessment of rHGH vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100537",
+        "reportUrl": "https://verify.janoshik.com/tests/100537-HGH_191AA_36iu_LCE81QNX2TT8"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#97081 HGH 10iu Assessment of rHGH vial or vials. tested by Crystal Peptides Made By crystalpeptides.eu",
+        "testId": "97081",
+        "reportUrl": "https://verify.janoshik.com/tests/97081-HGH_10iu_6X4TJKBT8VPK"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#97064 HGH 24 iu Assessment of rHGH vial or vials. tested by Alpha BioPharma Made By Alpha BioPharma",
+        "testId": "97064",
+        "reportUrl": "https://verify.janoshik.com/tests/97064-HGH_24_iu_SDECVNLDAWPM"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#95361 HGH24iu. Mandy pep. fac. currently ranks 1st in global supply. Assessment of rHGH vial or vials. tested by Mandy Made By www.mandybio.com",
+        "testId": "95361",
+        "reportUrl": "https://verify.janoshik.com/tests/95361-HGH24iu_Mandy_pep_fac_currently_ranks_1st_in_global_supply_W8I6FZ17HKT2"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#95031 HGH 24iu.Mandy factory supplies globally. Assessment of rHGH vial or vials. tested by Mandy Made By www.mandybio.com",
+        "testId": "95031",
+        "reportUrl": "https://verify.janoshik.com/tests/95031-HGH_24iuMandy_factory_supplies_globally_U83QSB8UCAZV"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#94816 Hgh15iu Assessment of rHGH vial or vials. tested by uwa-biotech Made By www.uwa-biotech.com",
+        "testId": "94816",
+        "reportUrl": "https://verify.janoshik.com/tests/94816-Hgh15iu_KMBWL84LD4GX"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#94383 HGH 191AA (Somatropin) 15IU Assessment of rHGH vial or vials. tested by zztai Peptide Ltd Made By https://zztai-tech.com/",
+        "testId": "94383",
+        "reportUrl": "https://verify.janoshik.com/tests/94383-HGH_191AA_Somatropin_15IU_L8QLTX2DYIPB"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#90980 HGH 15iu Assessment of rHGH vial or vials. tested by Steeler Made By Rayshine Peptides",
+        "testId": "90980",
+        "reportUrl": "https://verify.janoshik.com/tests/90980-HGH_15iu_MCEN86N1VQ7B"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#90160 HGH 191AA (Somatropin) | $0.20 USD/IU | U.S. AND CHINESE WAREHOUSE Endotoxin test. tested by D. Coine Made By @thegreyhq (Telegram)",
+        "testId": "90160",
+        "reportUrl": "https://verify.janoshik.com/tests/90160-HGH_191AA_Somatropin_020_USDIU_US_AND_CHINESE_WAREHOUSE_AW256YSMLE96"
+      },
+      {
+        "peptide": "HGH",
+        "source": "janoshik",
+        "title": "#90159 HGH 191AA (Somatropin) | $0.20 USD/IU | U.S. AND CHINESE WAREHOUSE Assessment of rHGH vial or vials. tested by D. Coine Made By @thegreyhq (Telegram)",
+        "testId": "90159",
+        "reportUrl": "https://verify.janoshik.com/tests/90159-HGH_191AA_Somatropin_020_USDIU_US_AND_CHINESE_WAREHOUSE_78GJXK6DKB3D"
+      }
+    ],
+    "Tesamorelin": [
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#100571 Tesamorelin 10mg Cocer Peptides Assessment of a peptide vial or vials. tested by Cocer Peptides Made By cocerpeptides.com",
+        "testId": "100571",
+        "reportUrl": "https://verify.janoshik.com/tests/100571-Tesamorelin_10mg_Cocer_Peptides_GI8BTN1JNPFL"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#97726 Tesamorelin 20mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "97726",
+        "reportUrl": "https://verify.janoshik.com/tests/97726-Tesamorelin_20mg_MHUHFRNNG4ZJ"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#89456 Tesamorelin Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89456",
+        "reportUrl": "https://verify.janoshik.com/tests/89456-Tesamorelin_MSMQPGCTAHQI"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#89195 Tesamorelin Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89195",
+        "reportUrl": "https://verify.janoshik.com/tests/89195-Tesamorelin_YGQXMVHHY4C2"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#87981 Tesamorelin 10mg Heavy metal analysis. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87981",
+        "reportUrl": "https://verify.janoshik.com/tests/87981-Tesamorelin_10mg_L2319693AGP2"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#87980 Tesamorelin 10mg Endotoxin test tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87980",
+        "reportUrl": "https://verify.janoshik.com/tests/87980-Tesamorelin_10mg_WJPLQN6Z13EY"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#87979 Tesamorelin 10mg Assessment of a peptide vial or vials. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87979",
+        "reportUrl": "https://verify.janoshik.com/tests/87979-Tesamorelin_10mg_44ZWHTK5YQFA"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#87710 Tesamorelin 10mg Assessment of a peptide vial or vials. tested by HM Peptide| Wholesale | OEM service Made By http://www.hemanpeptide.com/",
+        "testId": "87710",
+        "reportUrl": "https://verify.janoshik.com/tests/87710-Tesamorelin_10mg_ZTSDQHENGIJ2"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#85661 Tesamorelin 10mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85661",
+        "reportUrl": "https://verify.janoshik.com/tests/85661-Tesamorelin_10mg_RKBR9NNVVVMZ"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#71884 Tesamorelin 10mg Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "71884",
+        "reportUrl": "https://verify.janoshik.com/tests/71884-Tesamorelin_10mg_IFVY9AAWQMN6"
+      },
+      {
+        "peptide": "Tesamorelin",
+        "source": "janoshik",
+        "title": "#71597 Tesamorelin 10mg Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "71597",
+        "reportUrl": "https://verify.janoshik.com/tests/71597-Tesamorelin_10mg_ZMG1XWVV9KNV"
+      }
+    ],
+    "Retatrutide": [
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#105307 Retatrutide 60mg Assessment of a peptide pen. tested by Apex Pharma.io Made By Apex Pharma.io",
+        "testId": "105307",
+        "reportUrl": "https://verify.janoshik.com/tests/105307-Retatrutide_60mg_RCZTVKV3S1I8"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#105306 Retatrutide 40mg Assessment of a peptide pen. tested by Apex Pharma.io Made By Apex Pharma.io",
+        "testId": "105306",
+        "reportUrl": "https://verify.janoshik.com/tests/105306-Retatrutide_40mg_RGMXV9XEW2R2"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#105303 Retatrutide 20mg Assessment of a peptide pen. tested by Apex Pharma.io Made By Apex Pharma.io",
+        "testId": "105303",
+        "reportUrl": "https://verify.janoshik.com/tests/105303-Retatrutide_20mg_MMHV4D7H8Q94"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#101950 Retatrutide 10mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "101950",
+        "reportUrl": "https://verify.janoshik.com/tests/101950-Retatrutide_10mg_4NED66TLAQCG"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#101083 Retatrutide 20mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "101083",
+        "reportUrl": "https://verify.janoshik.com/tests/101083-Retatrutide_20mg_Ships_within_the_USA_Fast_N7PPUVKCQ7GD"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#101082 Retatrutide 10mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "101082",
+        "reportUrl": "https://verify.janoshik.com/tests/101082-Retatrutide_10mg_Ships_within_the_USA_Fast_9QJBSKKXU256"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#99767 Retatrutide 20mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "99767",
+        "reportUrl": "https://verify.janoshik.com/tests/99767-Retatrutide_20mg_XFDLFMUVM9R4"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#99618 Retatrutide 30 mg | UK,USA,EU domestic shipping Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By Peptidegurus",
+        "testId": "99618",
+        "reportUrl": "https://verify.janoshik.com/tests/99618-Retatrutide_30_mg_UKUSAEU_domestic_shipping_X37MAS42AHN3"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#97074 Retatrutide 10mg LCMS screening. tested by RetaEU.nl Made By RetaEU Netherlands",
+        "testId": "97074",
+        "reportUrl": "https://verify.janoshik.com/tests/97074-Retatrutide_10mg_G7FVYL83UX85"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#97073 Retatrutide 10mg Assessment of a peptide vial or vials. tested by RetaEU.nl Made By RetaEU Netherlands",
+        "testId": "97073",
+        "reportUrl": "https://verify.janoshik.com/tests/97073-Retatrutide_10mg_5EUIVYDSGZFH"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#97031 Retatrutide 10mg | Shipping to US &amp; Canada Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "97031",
+        "reportUrl": "https://verify.janoshik.com/tests/97031-Retatrutide_10mg_Shipping_to_US_Canada_D2I5MNZ3ES7Q"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#94813 retatrutide 10mg Assessment of a peptide vial or vials. tested by uwa-biotech Made By www.uwa-biotech.com",
+        "testId": "94813",
+        "reportUrl": "https://verify.janoshik.com/tests/94813-retatrutide_10mg_SFCLUWVN3EN8"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#94384 Retatrutide 20mg Assessment of a peptide vial or vials. tested by zztai Peptide Ltd Made By https://zztai-tech.com/",
+        "testId": "94384",
+        "reportUrl": "https://verify.janoshik.com/tests/94384-Retatrutide_20mg_67AIPYRHAX37"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#91618 Retatrutide 10mg Assessment of a peptide vial or vials. tested by info@crystalpeptides.eu Made By crystalpeptides.eu",
+        "testId": "91618",
+        "reportUrl": "https://verify.janoshik.com/tests/91618-Retatrutide_10mg_KHNYCS1GVPER"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#90991 retatrutide 30mg Assessment of a peptide vial or vials. tested by HGP Made By HGP",
+        "testId": "90991",
+        "reportUrl": "https://verify.janoshik.com/tests/90991-retatrutide_30mg_U847IARDWHWP"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#90880 Retatrutide 30mg - Seeking resellers outside the US and China Assessment of a peptide vial or vials. tested by www.biochemapi.com info@biochemapi.com Made By We are the PEPTIDESCIENCES of peptides in China.",
+        "testId": "90880",
+        "reportUrl": "https://verify.janoshik.com/tests/90880-Retatrutide_30mg_Seeking_resellers_outside_the_US_and_China_2ZMET6CRTS6D"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#89381 Retatrutide Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89381",
+        "reportUrl": "https://verify.janoshik.com/tests/89381-Retatrutide_NJLHWR8IJEFN"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#89191 Retatrutide Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89191",
+        "reportUrl": "https://verify.janoshik.com/tests/89191-Retatrutide_T4GRQY1HNYWF"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#85648 Retatrutide 30mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85648",
+        "reportUrl": "https://verify.janoshik.com/tests/85648-Retatrutide_30mg_7RU96U5I2AEF"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#84269 Retatrutide 20mg in stock in USA,EU,UK,Canada,China Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By peptidegurus.com",
+        "testId": "84269",
+        "reportUrl": "https://verify.janoshik.com/tests/84269-Retatrutide_20mg_in_stock_in_USAEUUKCanadaChina_KWCV6JHGIH3B"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#82282 Retatrutide 40mg | 99.5% Purity + Guaranteed. #1 Rated USA Supplier| Same Day... Assessment of a peptide vial or vials. tested by www.licensedpeptides.com Made By www.licensedpeptides.com",
+        "testId": "82282",
+        "reportUrl": "https://verify.janoshik.com/tests/82282-Retatrutide_40mg_995_Purity_Guaranteed_1_Rated_USA_Supplier_Same_Day_FAST_Shipping_USA_Canada_247_PhoneEmail_Customer_Support_I3NR16JGXTL8"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#79432 Retatrutide 20mg | Shipping to US &amp; Canada Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "79432",
+        "reportUrl": "https://verify.janoshik.com/tests/79432-Retatrutide_20mg_Shipping_to_US_Canada_6JSFMTXBIQYF"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#76220 Retatrutide 12mg | USA Supplier| Same Day Shipping| Retail Or Wholesale | Pho... Assessment of a peptide vial or vials. tested by www.licensedpeptides.com Made By www.licensedpeptides.com",
+        "testId": "76220",
+        "reportUrl": "https://verify.janoshik.com/tests/76220-Retatrutide_12mg_USA_Supplier_Same_Day_Shipping_Retail_Or_Wholesale_Phone_Email_Support_NIGPCLGWK6WJ"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#71881 Retatrutide 10mg Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "71881",
+        "reportUrl": "https://verify.janoshik.com/tests/71881-Retatrutide_10mg_GF5J1TLEG7TC"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#71592 Retatrutide 10mg Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "71592",
+        "reportUrl": "https://verify.janoshik.com/tests/71592-Retatrutide_10mg_N8E64RIPV1IZ"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#69929 Retatrutide 10mg Assessment of a peptide vial or vials. tested by zztai Peptide Ltd Made By https://zztai-tech.com/",
+        "testId": "69929",
+        "reportUrl": "https://verify.janoshik.com/tests/69929-Retatrutide_10mg_TA2CQT3F44X9"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#62743 Retatrutide 30mg Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "62743",
+        "reportUrl": "https://verify.janoshik.com/tests/62743-Retatrutide_30mg_2G15KR2FETCE"
+      },
+      {
+        "peptide": "Retatrutide",
+        "source": "janoshik",
+        "title": "#57046 Retatrutide 10MG | PeptideGurus Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By PEPTIDEGURUS.COM",
+        "testId": "57046",
+        "reportUrl": "https://verify.janoshik.com/tests/57046-Retatrutide_10MG_PeptideGurus_TG3NDJDPD2TS"
+      }
+    ],
+    "Tirzepatide": [
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#101952 Tirzepatide 30mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "101952",
+        "reportUrl": "https://verify.janoshik.com/tests/101952-Tirzepatide_30mg_GVEZ3R9Z7PWS"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#100041 Tirzepatide 30mg Cocer Peptides Assessment of a peptide vial or vials. tested by Cocer Peptides Made By cocerpeptides.com，WhatsApp:+852 6904 8891",
+        "testId": "100041",
+        "reportUrl": "https://verify.janoshik.com/tests/100041-Tirzepatide_30mg_Cocer_Peptides_42YI18HKJKFG"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#99769 Tirzepatide 15mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "99769",
+        "reportUrl": "https://verify.janoshik.com/tests/99769-Tirzepatide_15mg_E7NN3JKTPUQ4"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#99619 Tirzepatide 50 mg | UK,USA,EU domestic shipping Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By Peptidegurus",
+        "testId": "99619",
+        "reportUrl": "https://verify.janoshik.com/tests/99619-Tirzepatide_50_mg_UKUSAEU_domestic_shipping_8AL5UVERL6QG"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#97492 Tirzepatide 30mg Assessment of a peptide vial or vials. tested by www.PeptideCritic.com Best Sources Available Made By Unknown",
+        "testId": "97492",
+        "reportUrl": "https://verify.janoshik.com/tests/97492-Tirzepatide_30mg_TILRQE59YXZZ"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#95887 Tirzepatide 100mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "95887",
+        "reportUrl": "https://verify.janoshik.com/tests/95887-Tirzepatide_100mg_Ships_within_the_USA_Fast_44XV7IK1B82F"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#95886 Tirzepatide 60mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "95886",
+        "reportUrl": "https://verify.janoshik.com/tests/95886-Tirzepatide_60mg_Ships_within_the_USA_Fast_7YLGHUIWFX1I"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#94385 Tirzepatide 60mg Assessment of a peptide vial or vials. tested by zztai Peptide Ltd Made By https://zztai-tech.com/",
+        "testId": "94385",
+        "reportUrl": "https://verify.janoshik.com/tests/94385-Tirzepatide_60mg_C14TG21TTR9M"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#91619 Tirzepatide 10mg Assessment of a peptide vial or vials. tested by info@crystalpeptides.eu Made By crystalpeptides.eu",
+        "testId": "91619",
+        "reportUrl": "https://verify.janoshik.com/tests/91619-Tirzepatide_10mg_HGGNQ9P43WI8"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#90989 tirzepatide 10mg Assessment of a peptide vial or vials. tested by HGP Made By HGP",
+        "testId": "90989",
+        "reportUrl": "https://verify.janoshik.com/tests/90989-tirzepatide_10mg_YAKDJZGL15G1"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#90987 tirzepatide 30mg Assessment of a peptide vial or vials. tested by HGP Made By HGP",
+        "testId": "90987",
+        "reportUrl": "https://verify.janoshik.com/tests/90987-tirzepatide_30mg_NXYD97E4C92N"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#90879 Tirzepatide 30 mg - Seeking resellers outside the US and China Assessment of a peptide vial or vials. tested by www.biochemapi.com Made By We are the PEPTIDESCIENCES of peptides in China.",
+        "testId": "90879",
+        "reportUrl": "https://verify.janoshik.com/tests/90879-Tirzepatide_30_mg_Seeking_resellers_outside_the_US_and_China_Z8TYLULUIX1R"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#90064 tirzepatide 40mg Assessment of a peptide vial or vials. tested by uwa-biotech Made By www.uwa-biotech.com",
+        "testId": "90064",
+        "reportUrl": "https://verify.janoshik.com/tests/90064-tirzepatide_40mg_P2TLVDTPQ6Z5"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#90063 tirzepatide 30mg Assessment of a peptide vial or vials. tested by uwa-biotech Made By www.uwa-biotech.com",
+        "testId": "90063",
+        "reportUrl": "https://verify.janoshik.com/tests/90063-tirzepatide_30mg_ABXT4BYKJ6NS"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#89403 Tirzepatide 120mg Assessment of a peptide vial or vials. tested by ZLZ peptides Made By http://www.zlzpeptide.com/",
+        "testId": "89403",
+        "reportUrl": "https://verify.janoshik.com/tests/89403-Tirzepatide_120mg_WBMGCUCL6CRM"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#89380 Tirzepatide Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89380",
+        "reportUrl": "https://verify.janoshik.com/tests/89380-Tirzepatide_9KYIUZ1Z4KVR"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#89190 Tirzepatide Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89190",
+        "reportUrl": "https://verify.janoshik.com/tests/89190-Tirzepatide_KWPXC3L437TH"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#88910 Tirzepatide 15mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "88910",
+        "reportUrl": "https://verify.janoshik.com/tests/88910-Tirzepatide_15mg_AX3NFX6R7FZC"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#85646 Tirzepatide 30mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85646",
+        "reportUrl": "https://verify.janoshik.com/tests/85646-Tirzepatide_30mg_4DJ1PXH9JR4N"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#83183 Tirzepatide 60mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "83183",
+        "reportUrl": "https://verify.janoshik.com/tests/83183-Tirzepatide_60mg_KB9TE7ICZVFH"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#80676 Trizepatide 30mg Assessment of a peptide vial or vials. tested by Homopeptide Made By homopeptide.com",
+        "testId": "80676",
+        "reportUrl": "https://verify.janoshik.com/tests/80676-Trizepatide_30mg_NISHHG9JNATN"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#72096 Tirzepatide 30mg Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "72096",
+        "reportUrl": "https://verify.janoshik.com/tests/72096-Tirzepatide_30mg_6WTCRZYJD34U"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#71600 Tirzepatide 30mg Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "71600",
+        "reportUrl": "https://verify.janoshik.com/tests/71600-Tirzepatide_30mg_DBPMFPWRA6FG"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#69934 Tirzepatide 30mg Assessment of a peptide vial or vials. tested by zztai Peptide Ltd Made By https://zztai-tech.com/",
+        "testId": "69934",
+        "reportUrl": "https://verify.janoshik.com/tests/69934-Tirzepatide_30mg_1NL24F2YXYMF"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#49669 Tirzepatide 30mg Assessment of a peptide vial or vials. tested by HK Peptide Ltd (hk peptides) Made By http://www.hkpeptide.com/",
+        "testId": "49669",
+        "reportUrl": "https://verify.janoshik.com/tests/49669-Tirzepatide_30mg_8JN87CNCN1FQ"
+      },
+      {
+        "peptide": "Tirzepatide",
+        "source": "janoshik",
+        "title": "#49668 Tirzepatide 10mg Assessment of a peptide vial or vials. tested by HK Peptide Ltd (hk peptides) Made By http://www.hkpeptide.com/",
+        "testId": "49668",
+        "reportUrl": "https://verify.janoshik.com/tests/49668-Tirzepatide_10mg_HGMAU13G4V2J"
+      }
+    ],
+    "NAD+": [
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#97494 NAD 500 mg Qualitative and quantitative analysis of non-AA... tested by www.PeptideCritic.com Best Sources Available Made By Unknown",
+        "testId": "97494",
+        "reportUrl": "https://verify.janoshik.com/tests/97494-NAD_500_mg_JS5I4AUGY1M8"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#96844 NAD+750mglPeptidegurus Domestic shipping from USA,UK,EU Qualitative and quantitative analysis of non-AA... tested by info@peptidegurus.com Made By Peptidegurus",
+        "testId": "96844",
+        "reportUrl": "https://verify.janoshik.com/tests/96844-NAD750mglPeptidegurus_Domestic_shipping_from_USAUKEU_6S5S3WESNKGH"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#92364 Cartalax 20mg| PeptideGurus domestic shipping from USA,UK,Europe,Canada Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By PEPTIDEGURUS.COM",
+        "testId": "92364",
+        "reportUrl": "https://verify.janoshik.com/tests/92364-Cartalax_20mg_PeptideGurus_domestic_shipping_from_USAUKEuropeCanada_IVQJG6F3W41W"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#92363 Ara-290 10mg| PeptideGurus domestic shipping from USA,UK,Europe,Canada Assessment of a peptide vial or vials. tested by info@peptidegurus.com Made By PEPTIDEGURUS.COM",
+        "testId": "92363",
+        "reportUrl": "https://verify.janoshik.com/tests/92363-Ara290_10mg_PeptideGurus_domestic_shipping_from_USAUKEuropeCanada_NWCHZSF4VX73"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#90384 Nad+500 Qualitative and quantitative analysis of non-AA... tested by HGP Made By HGP",
+        "testId": "90384",
+        "reportUrl": "https://verify.janoshik.com/tests/90384-Nad500_RX8D3PGL8Z35"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#90383 Nad+500 Qualitative and quantitative analysis of non-AA... tested by aurapp.5188@hotmail.com Made By aura",
+        "testId": "90383",
+        "reportUrl": "https://verify.janoshik.com/tests/90383-Nad500_ZBG687STZYM8"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#89901 NAD+ 500mg Qualitative and quantitative analysis of non-AA... tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89901",
+        "reportUrl": "https://verify.janoshik.com/tests/89901-NAD_500mg_KIWC5KXVJPVR"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#89402 NAD+ 500mg Qualitative and quantitative analysis of non-AA... tested by ZLZ peptides Made By http://www.zlzpeptide.com/",
+        "testId": "89402",
+        "reportUrl": "https://verify.janoshik.com/tests/89402-NAD_500mg_AM8CTGWL287Y"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#89199 NAD+ 500mg Qualitative and quantitative analysis of non-AA... tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89199",
+        "reportUrl": "https://verify.janoshik.com/tests/89199-NAD_500mg_CNC4BN7H7KB1"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#85656 NAD 500mg Qualitative and quantitative analysis of non-AA... tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85656",
+        "reportUrl": "https://verify.janoshik.com/tests/85656-NAD_500mg_WL9GDZ8Y7PUV"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#83375 BPC-157/TB500 10mg/10mg | Shipping to US &amp; Canada Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "83375",
+        "reportUrl": "https://verify.janoshik.com/tests/83375-BPC157TB500_10mg10mg_Shipping_to_US_Canada_BVGV7Q5PQUXX"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#71870 NAD+500 Qualitative and quantitative analysis of non-AA... tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "71870",
+        "reportUrl": "https://verify.janoshik.com/tests/71870-NAD500_CBP2XVD3PAF4"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#71591 NAD+500 Qualitative and quantitative analysis of non-AA... tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "71591",
+        "reportUrl": "https://verify.janoshik.com/tests/71591-NAD500_JEWZ4D9UQSLV"
+      },
+      {
+        "peptide": "NAD+",
+        "source": "janoshik",
+        "title": "#49670 NAD+ 500mg Qualitative and quantitative analysis of non-AA... tested by HK Peptide Ltd (hk peptides) Made By http://www.hkpeptide.com/",
+        "testId": "49670",
+        "reportUrl": "https://verify.janoshik.com/tests/49670-NAD_500mg_K7M2QXQLVNFQ"
+      }
+    ],
+    "Cagrilintide": [
+      {
+        "peptide": "Cagrilintide",
+        "source": "janoshik",
+        "title": "#89454 Cagrilintide Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89454",
+        "reportUrl": "https://verify.janoshik.com/tests/89454-Cagrilintide_1RED2JFXABLX"
+      },
+      {
+        "peptide": "Cagrilintide",
+        "source": "janoshik",
+        "title": "#89410 Cagrilintide 10mg Assessment of a peptide vial or vials. tested by ZLZ peptides Made By http://www.zlzpeptide.com",
+        "testId": "89410",
+        "reportUrl": "https://verify.janoshik.com/tests/89410-Cagrilintide_10mg_RIEISFN4TB9U"
+      },
+      {
+        "peptide": "Cagrilintide",
+        "source": "janoshik",
+        "title": "#89193 Cagrilintide Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89193",
+        "reportUrl": "https://verify.janoshik.com/tests/89193-Cagrilintide_24UT89UZCLPM"
+      },
+      {
+        "peptide": "Cagrilintide",
+        "source": "janoshik",
+        "title": "#71595 Cagrilintide 10mg Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "71595",
+        "reportUrl": "https://verify.janoshik.com/tests/71595-Cagrilintide_10mg_S9D3A71YY6CZ"
+      }
+    ],
+    "TB-500": [
+      {
+        "peptide": "TB-500",
+        "source": "janoshik",
+        "title": "#100580 TB500 10mg Cocer Peptides Assessment of a peptide vial or vials. tested by Cocer Peptides Made By cocerpeptides.com",
+        "testId": "100580",
+        "reportUrl": "https://verify.janoshik.com/tests/100580-TB500_10mg_Cocer_Peptides_5S7D9CNI5LQZ"
+      },
+      {
+        "peptide": "TB-500",
+        "source": "janoshik",
+        "title": "#95905 TB500 10mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "95905",
+        "reportUrl": "https://verify.janoshik.com/tests/95905-TB500_10mg_Ships_within_the_USA_Fast_TQD5ESNCR5M3"
+      },
+      {
+        "peptide": "TB-500",
+        "source": "janoshik",
+        "title": "#95904 TB500 5mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "95904",
+        "reportUrl": "https://verify.janoshik.com/tests/95904-TB500_5mg_Ships_within_the_USA_Fast_HPZ5GKA1YI2V"
+      },
+      {
+        "peptide": "TB-500",
+        "source": "janoshik",
+        "title": "#91623 TB 500 5mg Assessment of a peptide vial or vials. tested by info@crystalpeptides.eu Made By crystalpeptides.eu",
+        "testId": "91623",
+        "reportUrl": "https://verify.janoshik.com/tests/91623-TB_500_5mg_3TCGCGDA9ZQ1"
+      },
+      {
+        "peptide": "TB-500",
+        "source": "janoshik",
+        "title": "#85651 TB500 10mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85651",
+        "reportUrl": "https://verify.janoshik.com/tests/85651-TB500_10mg_RGFC28IAKGW9"
+      },
+      {
+        "peptide": "TB-500",
+        "source": "janoshik",
+        "title": "#80903 TB 500 10mg Assessment of a peptide vial or vials. tested by Texpeptides@gmail.com Made By texpeptide.com",
+        "testId": "80903",
+        "reportUrl": "https://verify.janoshik.com/tests/80903-TB_500_10mg_TRN3TLG3F8KB"
+      }
+    ],
+    "Tesofensine": [
+      {
+        "peptide": "Tesofensine",
+        "source": "janoshik",
+        "title": "#74007 Tesofensine 500mcg Qualitative and quantitative analysis of non-AA... tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "74007",
+        "reportUrl": "https://verify.janoshik.com/tests/74007-Tesofensine_500mcg_TX229UVGMMPR"
+      }
+    ],
+    "Bacteriostatic Water": [
+      {
+        "peptide": "Bacteriostatic Water",
+        "source": "janoshik",
+        "title": "#100526 BACTERIOSTATIC WATER 10ml Qualitative and quantitative analysis of non-AA... tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100526",
+        "reportUrl": "https://verify.janoshik.com/tests/100526-BACTERIOSTATIC_WATER_10ml_Z6AT3GN1923Y"
+      }
+    ],
+    "MOTS-C": [
+      {
+        "peptide": "MOTS-C",
+        "source": "janoshik",
+        "title": "#100597 MOTS-C 40mg Assessment of a peptide vial or vials. tested by Penguin Peptides Made By Penguin Peptides",
+        "testId": "100597",
+        "reportUrl": "https://verify.janoshik.com/tests/100597-MOTSC_40mg_9QH281E15QCA"
+      },
+      {
+        "peptide": "MOTS-C",
+        "source": "janoshik",
+        "title": "#96921 NAD/MOTS-c/5amino 100/10/10mg Assessment of a peptide vial or vials. tested by support@puruspeptides.com Made By Purus Peptides",
+        "testId": "96921",
+        "reportUrl": "https://verify.janoshik.com/tests/96921-NADMOTSc5amino_1001010mg_Q725RWTGLPTD"
+      },
+      {
+        "peptide": "MOTS-C",
+        "source": "janoshik",
+        "title": "#95908 MOTS-c 40mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "95908",
+        "reportUrl": "https://verify.janoshik.com/tests/95908-MOTSc_40mg_Ships_within_the_USA_Fast_XC5TPA1NL9UP"
+      },
+      {
+        "peptide": "MOTS-C",
+        "source": "janoshik",
+        "title": "#95907 MOTS-c 10mg | Ships within the U.S.A. - Fast Assessment of a peptide vial or vials. tested by InnoPeptide Made By www.innopeptide.com",
+        "testId": "95907",
+        "reportUrl": "https://verify.janoshik.com/tests/95907-MOTSc_10mg_Ships_within_the_USA_Fast_6154BEQMWJ74"
+      },
+      {
+        "peptide": "MOTS-C",
+        "source": "janoshik",
+        "title": "#89405 MOTS-C 40mg Assessment of a peptide vial or vials. tested by ZLZ peptides Made By http://www.zlzpeptide.com",
+        "testId": "89405",
+        "reportUrl": "https://verify.janoshik.com/tests/89405-MOTSC_40mg_5C6X5ZARWEMH"
+      },
+      {
+        "peptide": "MOTS-C",
+        "source": "janoshik",
+        "title": "#85658 MOTS-C 10mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85658",
+        "reportUrl": "https://verify.janoshik.com/tests/85658-MOTSC_10mg_98GK2WK351YD"
+      }
+    ],
+    "Epithalon": [
+      {
+        "peptide": "Epithalon",
+        "source": "janoshik",
+        "title": "#97463 Epithalon 10mg Cocer Peptides Assessment of a peptide vial or vials. tested by Cocer Peptides Made By cocerpeptides.com",
+        "testId": "97463",
+        "reportUrl": "https://verify.janoshik.com/tests/97463-Epithalon_10mg_Cocer_Peptides_TGR2CPB2ZABH"
+      },
+      {
+        "peptide": "Epithalon",
+        "source": "janoshik",
+        "title": "#87971 Epithalon 10MG Heavy metal analysis. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87971",
+        "reportUrl": "https://verify.janoshik.com/tests/87971-Epithalon_10MG_GLBFJY6YLU75"
+      },
+      {
+        "peptide": "Epithalon",
+        "source": "janoshik",
+        "title": "#87970 Epithalon 10MG Endotoxin test tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87970",
+        "reportUrl": "https://verify.janoshik.com/tests/87970-Epithalon_10MG_EEL8U97A6CVD"
+      },
+      {
+        "peptide": "Epithalon",
+        "source": "janoshik",
+        "title": "#87969 Epithalon 10MG Assessment of a peptide vial or vials. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87969",
+        "reportUrl": "https://verify.janoshik.com/tests/87969-Epithalon_10MG_FL8DRSR7JNF5"
+      }
+    ],
+    "Semaglutide": [
+      {
+        "peptide": "Semaglutide",
+        "source": "janoshik",
+        "title": "#101176 GLP-3RT 20mg Common GLP-1 peptide blind test (Semaglutide, T... tested by www.maximumpeps.com Made By MaximumPeps",
+        "testId": "101176",
+        "reportUrl": "https://verify.janoshik.com/tests/101176-GLP3RT_20mg_KD46UNDLFB2U"
+      },
+      {
+        "peptide": "Semaglutide",
+        "source": "janoshik",
+        "title": "#93542 Semaglutide 10mg Assessment of a peptide vial or vials. tested by Modern-Peptides.com Made By Modern Research LLC",
+        "testId": "93542",
+        "reportUrl": "https://verify.janoshik.com/tests/93542-Semaglutide_10mg_5MCH8XVEUAJK"
+      },
+      {
+        "peptide": "Semaglutide",
+        "source": "janoshik",
+        "title": "#91621 Semaglutide 10mg Assessment of a peptide vial or vials. tested by info@crystalpeptides.eu Made By crystalpeptides.eu",
+        "testId": "91621",
+        "reportUrl": "https://verify.janoshik.com/tests/91621-Semaglutide_10mg_6DRXUHSKA8E5"
+      },
+      {
+        "peptide": "Semaglutide",
+        "source": "janoshik",
+        "title": "#89573 semaglutide Assessment of a peptide vial or vials. tested by MEI-PEPETIDE Made By www.meipeptide.com",
+        "testId": "89573",
+        "reportUrl": "https://verify.janoshik.com/tests/89573-semaglutide_JG7433KAQETN"
+      },
+      {
+        "peptide": "Semaglutide",
+        "source": "janoshik",
+        "title": "#89192 Semaglutide Assessment of a peptide vial or vials. tested by admin@reta-peptide.com Made By www.reta-peptide.com",
+        "testId": "89192",
+        "reportUrl": "https://verify.janoshik.com/tests/89192-Semaglutide_CY9NTITLX8SE"
+      },
+      {
+        "peptide": "Semaglutide",
+        "source": "janoshik",
+        "title": "#85647 Semaglutide 10mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85647",
+        "reportUrl": "https://verify.janoshik.com/tests/85647-Semaglutide_10mg_QX615BMKT4C9"
+      }
+    ],
+    "GHK-Cu": [
+      {
+        "peptide": "GHK-Cu",
+        "source": "janoshik",
+        "title": "#97075 GHK Assessment of a peptide vial or vials. tested by RetaEU.nl Made By RetaEU Netherlands",
+        "testId": "97075",
+        "reportUrl": "https://verify.janoshik.com/tests/97075-GHK_FWCXXEK96H7T"
+      },
+      {
+        "peptide": "GHK-Cu",
+        "source": "janoshik",
+        "title": "#94437 ghkcu cosmetic 1g Assessment of a peptide raw powder. tested by uwa-biotech Made By www.uwa-biotech.com",
+        "testId": "94437",
+        "reportUrl": "https://verify.janoshik.com/tests/94437-ghkcu_cosmetic_1g_2JIZTK6YWQRK"
+      },
+      {
+        "peptide": "GHK-Cu",
+        "source": "janoshik",
+        "title": "#91620 GHK-cu 50mg Assessment of a peptide vial or vials. tested by info@crystalpeptides.eu Made By crystalpeptides.eu",
+        "testId": "91620",
+        "reportUrl": "https://verify.janoshik.com/tests/91620-GHKcu_50mg_XEAB148ERGP8"
+      },
+      {
+        "peptide": "GHK-Cu",
+        "source": "janoshik",
+        "title": "#87968 GHK-CU 50mg Heavy metal analysis. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87968",
+        "reportUrl": "https://verify.janoshik.com/tests/87968-GHKCU_50mg_MLQ6CG4FBUSV"
+      },
+      {
+        "peptide": "GHK-Cu",
+        "source": "janoshik",
+        "title": "#87966 GHK-CU 50mg Assessment of a peptide vial or vials. tested by cellpept.eu Made By Cellpept Research",
+        "testId": "87966",
+        "reportUrl": "https://verify.janoshik.com/tests/87966-GHKCU_50mg_JCD1UA1BIEER"
+      },
+      {
+        "peptide": "GHK-Cu",
+        "source": "janoshik",
+        "title": "#85657 GHK-CU 100mg Assessment of a peptide vial or vials. tested by liuquanqun@gmail.com Made By www.shpeptide.com",
+        "testId": "85657",
+        "reportUrl": "https://verify.janoshik.com/tests/85657-GHKCU_100mg_1DN152MM76AZ"
+      }
+    ]
+  }
+}

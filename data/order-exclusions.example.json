@@ -1,0 +1,6 @@
+{
+  "orderIds": ["PAYMENT_ID_1"],
+  "customerEmails": ["sample@example.com"],
+  "displayIds": ["RDR-ABCD1234-EFGH"],
+  "displayIdPrefixes": ["RDR-"]
+}

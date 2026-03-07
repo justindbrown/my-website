@@ -1,0 +1,102 @@
+[
+  {
+    "name": "RETA",
+    "slug": "reta",
+    "category": "Weight Loss",
+    "description": "Research-use listing. Not for human or veterinary use.",
+    "variants": [
+      {
+        "id": "10-mg-per-vial",
+        "label": "10 mg per vial",
+        "price": "$35.00",
+        "priceUsd": 35,
+        "stockQuantity": 0,
+        "sourceStockQuantity": 0,
+        "backorder": false,
+        "restockDate": null
+      },
+      {
+        "id": "30-mg-per-vial",
+        "label": "30 mg per vial",
+        "price": "$66.67",
+        "priceUsd": 66.67,
+        "stockQuantity": 0,
+        "sourceStockQuantity": 0,
+        "backorder": false,
+        "restockDate": null
+      }
+    ]
+  },
+  {
+    "name": "TIRZEPATIDE",
+    "slug": "tirzepatide",
+    "category": "Weight Loss",
+    "description": "Research-use listing. Not for human or veterinary use.",
+    "variants": [
+      {
+        "id": "10-mg-per-vial",
+        "label": "10 mg per vial",
+        "price": "$20.00",
+        "priceUsd": 20,
+        "stockQuantity": 0,
+        "sourceStockQuantity": 0,
+        "backorder": false,
+        "restockDate": null
+      }
+    ]
+  },
+  {
+    "name": "TESAMORELIN",
+    "slug": "tesamorelin",
+    "category": "Performance",
+    "description": "Research-use listing. Not for human or veterinary use.",
+    "variants": [
+      {
+        "id": "10-mg-per-vial",
+        "label": "10 mg per vial",
+        "price": "$45.00",
+        "priceUsd": 45,
+        "stockQuantity": 0,
+        "sourceStockQuantity": 0,
+        "backorder": false,
+        "restockDate": null
+      }
+    ]
+  },
+  {
+    "name": "TB5+BPC5",
+    "slug": "tb5-bpc5",
+    "category": "Recovery & Healing",
+    "description": "Research-use listing. Not for human or veterinary use.",
+    "variants": [
+      {
+        "id": "10-mg-per-vial",
+        "label": "10 mg per vial",
+        "price": "$25.00",
+        "priceUsd": 25,
+        "stockQuantity": 0,
+        "sourceStockQuantity": 0,
+        "backorder": false,
+        "restockDate": null
+      }
+    ]
+  },
+  {
+    "name": "BAC",
+    "slug": "bac",
+    "category": "Miscellaneous",
+    "description": "Research-use listing. Not for human or veterinary use.",
+    "variants": [
+      {
+        "id": "10-ml-per-vial",
+        "label": "10 ml per vial",
+        "price": "$10.00",
+        "priceUsd": 10,
+        "stockQuantity": 0,
+        "sourceStockQuantity": 0,
+        "backorder": false,
+        "restockDate": null
+      }
+    ]
+  }
+]

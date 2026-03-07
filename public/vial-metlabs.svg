@@ -1,0 +1,12 @@
+<svg width="160" height="320" viewBox="0 0 160 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="40" y="40" width="80" height="200" rx="40" fill="#e0e7ff" stroke="#2563eb" stroke-width="4"/>
+  <rect x="55" y="60" width="50" height="60" rx="10" fill="#fff" stroke="#2563eb" stroke-width="2"/>
+  <ellipse cx="80" cy="40" rx="40" ry="20" fill="#2563eb"/>
+  <ellipse cx="80" cy="240" rx="40" ry="20" fill="#2563eb"/>
+  <g>
+    <rect x="60" y="80" width="40" height="40" rx="8" fill="#fff" stroke="#2563eb" stroke-width="1.5"/>
+    <text x="80" y="105" text-anchor="middle" fill="#2563eb" font-size="13" font-family="Arial Black, Arial, sans-serif" font-weight="bold">Meta</text>
+    <text x="80" y="125" text-anchor="middle" fill="#0ea5a4" font-size="13" font-family="Arial Black, Arial, sans-serif" font-weight="bold">Labs</text>
+  </g>
+  <text x="80" y="180" text-anchor="middle" fill="#2563eb" font-size="14" font-family="Arial" font-weight="bold">Meta Labs</text>
+</svg>
