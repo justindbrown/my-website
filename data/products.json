@@ -18,8 +18,8 @@
       {
         "id": "30-mg-per-vial",
         "label": "30 mg per vial",
-        "price": "$66.67",
-        "priceUsd": 66.67,
+        "price": "$65.00",
+        "priceUsd": 65,
         "stockQuantity": 0,
         "sourceStockQuantity": 0,
         "backorder": false,
