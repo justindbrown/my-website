@@ -106,7 +106,7 @@ export default function ProductsCatalogClient({ products }: ProductsCatalogClien
                 product.inStock ? "bg-emerald-100 text-emerald-700" : "bg-slate-200 text-slate-700"
               }`}
             >
-              {product.inStock ? "In Stock" : "Out of Stock"}
+              {product.inStock ? "In Stock" : "Coming Soon"}
             </p>
 
             <dl className="mt-5 grid grid-cols-2 gap-3 rounded-2xl border border-slate-100 bg-slate-50 p-3 text-sm">
@@ -139,7 +139,7 @@ export default function ProductsCatalogClient({ products }: ProductsCatalogClien
                   disabled
                   className="cursor-not-allowed rounded-full bg-slate-300 px-4 py-2 text-sm font-semibold text-slate-600"
                 >
-                  Out of Stock
+                  Coming Soon
                 </button>
               )}
               <Link href="/coas" className="text-sm font-semibold text-slate-600 hover:text-slate-900">

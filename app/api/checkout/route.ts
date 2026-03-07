@@ -209,7 +209,7 @@ export async function POST(request: NextRequest) {
         slug: product.slug,
         variantId: variant.id,
       });
-      return NextResponse.json({ error: "Product is currently out of stock." }, { status: 409 });
+      return NextResponse.json({ error: "Product is currently coming soon." }, { status: 409 });
     }
 
     const unitAmount = parseUnitAmount(variant.price);

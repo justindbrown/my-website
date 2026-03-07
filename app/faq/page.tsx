@@ -37,9 +37,9 @@ const faqs: Array<{ question: string; answer: string }> = [
       "Use the COA Library page to browse available reports. Where available, source-site COA images are shown; additional compounds use Janoshik public report links.",
   },
   {
-    question: "Can I request out-of-stock notifications?",
+    question: "Can I request coming-soon notifications?",
     answer:
-      "Yes. On an out-of-stock product page, use the Notify form to submit your email and preferred variant.",
+      "Yes. On a coming-soon product page, use the Notify form to submit your email and preferred variant.",
   },
   {
     question: "Do you have an admin order dashboard?",

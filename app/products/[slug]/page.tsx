@@ -74,7 +74,7 @@ export default async function ProductDetailPage({ params, searchParams }: Produc
               product.inStock ? "bg-emerald-100 text-emerald-700" : "bg-slate-200 text-slate-700"
             }`}
           >
-            {product.inStock ? "In Stock" : "Out of Stock"}
+            {product.inStock ? "In Stock" : "Coming Soon"}
           </p>
 
           <div className="mt-6 grid gap-3 sm:grid-cols-3">
@@ -138,7 +138,7 @@ export default async function ProductDetailPage({ params, searchParams }: Produc
                       disabled
                       className="cursor-not-allowed rounded-full bg-slate-300 px-4 py-2 text-sm font-semibold text-slate-600"
                     >
-                      Out of Stock
+                      Coming Soon
                     </button>
                   )}
                 </div>
