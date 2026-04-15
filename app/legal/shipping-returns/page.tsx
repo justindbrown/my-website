@@ -64,7 +64,7 @@ export default async function ShippingReturnsPage() {
           <h2 className="text-lg font-semibold text-slate-900">1. Order processing</h2>
           <p className="mt-2">
             Orders are processed after successful payment authorization and compliance checks. Processing times
-            can vary by volume, holiday schedule, and carrier capacity.
+            can vary by volume, holiday schedule, and carrier capacity. U.S. Shipping Only.
           </p>
         </div>
 
