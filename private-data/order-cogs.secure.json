@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "algorithm": "aes-256-gcm",
+  "iv": "SYSz+DAqNBvlrl1m",
+  "authTag": "wAu4pga0IwGm9Lbntppl6Q==",
+  "ciphertext": "2o1pn98hWLRbvRslRhL1rndT3wHgbHN8+8w2apyi0SEQbMBuWlYnUXdNAmRQRa1bK25Qcpktg+/xwPuxt3yrxYLvL5lnMELRR/x7Y9mL7QxEipvcYEf1"
+}
